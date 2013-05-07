@@ -1,0 +1,71 @@
+MedicalTubing
+strong plastic tubing that might prove useful
+12
+medical
+0
+
+goo
+some goo that appears to be edible
+30
+storage
+0
+
+OxygenTank
+a large, metal tube filled with oxygen
+10
+storage
+0
+
+rope
+thick, braided rope
+15
+storage
+0
+
+stitching
+strong looking string used for medical purposes
+3
+medical
+0
+
+spacesuit
+a sturdy, air-tight suit
+60
+armory
+5
+
+helmet
+a shiny round helemt to go along with a space suit
+40
+armory
+3
+
+LaserRifle
+a lightly used gun that translates "No not point in eyes"
+50
+armory
+10
+
+phaser
+something similar to what you have seen in all of those space movies
+45
+armory
+15
+
+ChocolateCake
+edible, brown looking stuff that you just make out to be cake
+20
+lounge
+0
+
+SuperMicrowave
+a microwave you saw the alien using to cook something
+15
+lounge
+0
+
+radar
+a device used for guiding the mothership
+10
+commandBridge
+0

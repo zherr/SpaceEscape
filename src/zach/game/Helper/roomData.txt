@@ -1,0 +1,80 @@
+airlock
+south corridor7
+in an airlock with a red button on the wall
+
+armory
+north training south corridor0 east security west corridor1
+in a room filled with strange looking weapons
+
+catwalk
+east corridor7 west corridor6
+walking across a catwalk with a view of the space outside
+
+commandBridge
+north corridor5
+in a command bridge
+
+corridor0
+north armory west medical south corridor6
+in a corridor
+
+corridor1
+north storage south medical east armory west power
+in a corridor
+
+corridor2
+north power south corridor3 east medical
+in a corridor
+
+corridor3
+north corridor2 south corridor4 west lounge 
+in a corridor
+
+corridor4
+north corridor3 west corridor5
+in a corridor
+
+corridor5
+north lounge south commandBridge east corridor4
+in a corridor
+
+corridor6
+north corridor0 east catwalk 
+in a corridor
+
+corridor7
+north airlock south engine east escape west catwalk
+in a corridor
+
+engine
+north corridor7
+in an engine room
+
+escape
+west corridor7
+in a room with a broken escape pod. Perhaps you can fix it
+
+lounge
+south corridor5 east corridor3
+in a lounge
+
+medical
+north corridor1 east corridor0 west corridor2
+in what appears to be a medical room
+
+power
+south corridor2 east corridor1
+in a power room
+
+security
+west armory
+in a seurity room
+
+storage
+south corridor1
+in a storage room
+
+training
+south armory
+in a training room
+

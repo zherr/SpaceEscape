@@ -1,0 +1,64 @@
+book
+a dusty old
+12
+airlock
+
+airlock
+book spacesuite helmet oxygenTank
+
+armory
+gun armor sword rod
+
+catwalk
+lasergun 
+
+commandBridge
+documents briefcase
+
+corridor0
+hammer
+
+corridor1
+nothing
+
+corridor2
+powercore
+
+corridor3
+nothing
+
+corridor4
+semi-conductor
+
+corridor5
+nothing
+
+corridor6
+cat
+
+corridor7
+goo
+
+engine
+motor oil
+
+escape
+wrench pliers
+
+lounge
+comb chair
+
+medical
+glass scissors needles
+
+power
+nailgun cables
+
+security
+handcuffs
+
+storage
+box
+
+training
+staff

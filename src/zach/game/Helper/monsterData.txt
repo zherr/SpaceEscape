@@ -1,0 +1,85 @@
+Steuben
+a gorrilla looking alien
+power
+10
+semi-conductors
+some silicon conductors that look new
+5
+power
+0
+
+Skelator
+a combatant alien
+armory
+30
+sword
+a slim, titanium sword.
+50
+armory
+7
+
+
+CmdrToch
+a security personel alien
+security
+30
+SecurityKey
+a key needed for launching operations
+15
+security
+0
+
+
+Fur
+a dreadlocked martial arts alien
+escape
+30
+SpaceNumchucks
+a pair of glowing numchucks
+15
+escape
+8
+
+
+Fatso
+a killer butcher alien
+lounge
+10
+ButcherKnives
+a pair of sharp, blood covered knives
+20
+lounge
+10
+
+
+Zoona
+a female alien in white that appears to be a doctor
+corridor6
+35
+Syringe
+a sharp, dangerous looking needle.
+13
+corridor6
+12
+
+
+Capt Bokxon
+a kickboxing alien with lightening fast kicks
+commandBridge
+20
+MechanicalLegs
+high-powered thrust engine legs.
+45
+commandBridge
+6
+
+
+Comport
+a muscle building alien
+engine
+10
+PortableEngine
+a bulky, foreign looking engine
+30
+engine
+0
